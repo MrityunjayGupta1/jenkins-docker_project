@@ -1,4 +1,4 @@
-Python Application – Docker & Jenkins CI/CD
+##Python Application – Docker & Jenkins CI/CD
 
 Project Overview
 
@@ -16,8 +16,8 @@ Jenkins – Continuous Integration and Continuous Deployment
 
 Git & GitHub – Version control
 
-Project Structure
 
+Project Structure
 .
 ├── app.py
 ├── Dockerfile
